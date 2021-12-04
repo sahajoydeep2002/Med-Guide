@@ -1,7 +1,7 @@
 ## How to run 
 1. Clone the repo to your local system
 
-    ```git clone https://github.com/sahajoydeep2002/MedGuide.git ```
+    ```git clone https://github.com/sahajoydeep2002/Med-Guide.git ```
 2. Create a virtual environment. You can use this [link](https://docs.python.org/3/library/venv.html) for reference.
 
     ``` python -m venv venv ```
@@ -38,7 +38,7 @@
 9. You can view the webapp by going to the [localhost:3000](http://127.0.0.1:3000/) on you web browser.
 
 ## Documents 
-You can find the [api guide](https://github.com/sahajoydeep2002/MedGuide/blob/main/api/README.md) in the api folder.
+You can find the [api guide](https://github.com/sahajoydeep2002/Med-Guide.git) in the api folder.
 
 ## What it does
 Our App allows the patient  to consult with the doctor regarding the medicines availability and prices of medicine nearby the patient, and discuss the total cost of the prescription with the doctor. ( So that doctor can suggest better alternative ).
